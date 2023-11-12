@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856284752906",
+    "project_id": "skill-on-base",
+    "storage_bucket": "skill-on-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856284752906:android:b83b67a85ced756d0543f3",
+        "android_client_info": {
+          "package_name": "com.mobvers.skill_on_base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJeXB0tirZ3MC-jhn0ynx89f6-qRj-Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
